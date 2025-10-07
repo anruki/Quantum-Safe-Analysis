@@ -1,1 +1,5 @@
 # Quantum-Safe-Analysis
+The present research project aims to analyze the impact of implementing post-quantum encryption mechanisms in business environments, assessing their feasibility, technical implications, and effects on security.
+To carry out this study, post-quantum encryption algorithms standardized by the National Institute of Standards and Technology (NIST) were implemented within the Transport Layer Security (TLS) protocol, which enables encrypted communication between client and server.
+The study includes the deployment of the necessary infrastructure to establish a client-server connection compatible with post-quantum algorithms. For this purpose, LibOQS tools were used, and all stages were documented to facilitate replication of the process and its future practical application.
+The results show that post-quantum algorithms outperform traditional schemes such as RSA by offering greater resistance to quantum threats and improved efficiency. Therefore, organizations are advised to proactively adopt hybrid cryptographic solutions as a strategic step toward achieving security resilience in the quantum era.
